@@ -1,2 +1,2 @@
-# python_development
-Python repo for testing different types of programs
+# Python Development
+Python repo for developing and testing different types of programs.
