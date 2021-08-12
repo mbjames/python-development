@@ -1,5 +1,5 @@
 # Python Development
-Python repo for developing and testing different types of programs.
+Python research and development repo.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
