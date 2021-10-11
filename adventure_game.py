@@ -89,7 +89,7 @@ def bear_room():
         game_over("The bear killed you.")
     elif answer == "2":
         # lead him to the diamond_room()
-        print("\nYour Good time, the bear moved from the door. You can go through it now!")
+        print("\nYour Good, the bear moved from the door. You can go through it now!")
         diamond_room()
     else:
         # else call game_over() function with the "reason" argument
